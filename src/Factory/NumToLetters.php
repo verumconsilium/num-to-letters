@@ -3,6 +3,8 @@
 namespace VerumConsilium\NumToLetters\Factory;
 
 use VerumConsilium\NumToLetters\Contract\NumToLetters as NumToLettersContract;
+use VerumConsilium\NumToLetters\NumToLettersEnglish;
+use VerumConsilium\NumToLetters\NumToLettersSpanish;
 
 class NumToLetters
 {
