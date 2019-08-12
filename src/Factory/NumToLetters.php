@@ -1,6 +1,6 @@
 <?php
 
-namespace VerumConsilium\NumToLetters;
+namespace VerumConsilium\NumToLetters\Factory;
 
 use VerumConsilium\NumToLetters\Contract\NumToLetters as NumToLettersContract;
 
